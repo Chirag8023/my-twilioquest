@@ -1,0 +1,12 @@
+<%- include('header') %>
+
+
+<div class="text-center center-div" >
+    <div class="container border" id="login">
+        <h3>Welcome to Dashboard</h3>
+        <h5><%= locals.user ? user:"User" %></h5>
+        <a href="/route/logout">Logout</a>
+    </div>
+</div>
+
+<%- include('footer') %>

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+body{
+    background-image: url("7ZxGqCN.jpeg");
+    background-color: #000000;
+    color: aliceblue;
+    font-family: 'Aboreto';
+    font-weight: bolder;
+    background-blend-mode: hard-light;
+    background-color: #7b07ff71;
+}
+
+.py-5{
+    padding: auto;
+}
+.pb-5 {
+    padding-block: auto;
+}
+.form-group{
+    padding: auto;
+    margin: 10px;
+}
+.container{
+    background-color: #00000063;
+    width: 500px;
+    border-width: 12ch;
+}
+.btn.btn-success{
+    margin-top: 5px;
+    padding: 0.5em 2em;
+    border-radius: 20%;
+    background-color: #000000;
+    border-color: #8dcaff;
+}
+.center-div{
+    padding-top: 10%;
+}
+
+.btn:active{
+    background-color: aliceblue;
+    color: #000000;
+}
+
+.alter{
+    color: #a04dff;
+}
